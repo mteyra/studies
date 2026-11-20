@@ -1,0 +1,27 @@
+# Course material stays on disk, never in git (copyright, size).
+*.pdf
+*.ppt
+*.pptx
+*.key
+*.odp
+*.doc
+*.docx
+*.odt
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.m4a
+*.mp3
+*.wav
+*.zip
+*.7z
+*.rar
+
+# Generated
+cards-export.tsv
+__pycache__/
+
+# Editors
+.obsidian/workspace*.json
+.DS_Store
